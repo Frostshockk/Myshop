@@ -8,7 +8,7 @@ This is a shop that includes:
 4) Emal massages about order
 5) Translation ru/eng
 
-#How to run ?
+# How to run ?
 1) Download the project
 2) Start rabbitMQ service
 3) Open the therminal
