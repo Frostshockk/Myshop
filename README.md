@@ -7,6 +7,7 @@ This is a shop that includes:
 3) Coupon system
 4) Emal massages about order
 5) Translation ru/eng
+
 #How to run ?
 1) Download the project
 2) Start rabbitMQ service
