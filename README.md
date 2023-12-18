@@ -15,3 +15,4 @@ This is a shop that includes:
 4) python manage.py runserver
 5) celery -A myshop flower
 6) celery -A myshop worker -l info (emain example in therminal)
+7) 127.0.0.1:8000 in browser
